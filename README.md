@@ -13,6 +13,12 @@ PES University, by **Team 15, "Attention Is All We Need"**.
 **Paper:** [`paper/main.tex`](paper/main.tex) (IEEE format; every number in it is a macro generated from the committed
 result files, see [Reproducing the paper](#reproducing-the-paper)).
 
+## Explore the study
+
+[Key findings](#key-findings) · [Method](#how-it-works) · [Datasets](#datasets) · [Code and reports](#where-everything-is) · [Reproduce the paper](#reproducing-the-paper) · [Run experiments](#running-the-experiments)
+
+**Reading path:** start with the findings, inspect the linked per-seed reports, then use the reproduction commands to trace paper numbers to committed result files. Full model experiments require the environment and compute described below.
+
 ## The question
 
 A sentiment classifier that has only ever seen an actor's name in positive reviews may learn to treat the name itself as
